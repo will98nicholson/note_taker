@@ -19,3 +19,11 @@ app.get('/api.notes', (req, res) => {
         res.json(JSON.parse(data));
     });
 });
+
+app.post('/api/notes', (req, res) => {
+    fs.readFile(notesData, 'utf8', (err, data) =>{
+        if (err) throw err;
+    })
+    
+
+})
