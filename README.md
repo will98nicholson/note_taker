@@ -21,3 +21,5 @@ Javascript, Node.JS, Express, Bootstrap, HTML, CSS
 ### Links
 Github Repository:
 [githubRepository]  https://will98nicholson.github.io/note_taker/
+Deployed Heroku:
+[deployedHeroku] https://stormy-harbor-56165.herokuapp.com/
